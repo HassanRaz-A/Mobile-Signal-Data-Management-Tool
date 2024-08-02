@@ -1,5 +1,5 @@
 Mobile Signal Data Management Tool
-This application allows users to manage mobile signal data using an Excel file. It provides functionalities to look up existing data and add new entries via a graphical user interface (GUI) built with Tkinter. The tool utilizes Pandas for data handling and manipulation.
+This application allows users to manage mobile signal data using an Excel file only in USA Region and for the these Carries AT&T, T-Mobile, Verizon. It provides functionalities to look up existing data and add new entries via a graphical user interface (GUI) built with Tkinter. The tool utilizes Pandas for data handling and manipulation.
 
 Features
 Lookup Tool: Search for mobile signal data by column and value.
